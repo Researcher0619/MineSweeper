@@ -1,5 +1,7 @@
 # MineSweeper Game
 
+![Welcome](static/screenshot.png)
+
 ## Overview
 
 MineSweeper is a classic single-player puzzle game where the player attempts to clear a rectangular board containing hidden mines or bombs without detonating any of them.
