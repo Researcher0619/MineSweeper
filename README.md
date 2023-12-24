@@ -1,6 +1,6 @@
 # MineSweeper Game
 
-![Welcome](static/screenshot.png)
+![Welcome](static/Screenshot.png)
 
 ## Overview
 
