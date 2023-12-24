@@ -1,6 +1,6 @@
 # MineSweeper Game
 
-![Welcome](static/Screenshot.png)
+<img src="static/Screenshot.png" alt="drawing" width="400"/>
 
 ## Overview
 
